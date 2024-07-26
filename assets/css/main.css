@@ -116,10 +116,10 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 12pt;
 	}
 
-		@media screen and (max-width: 1680px) {
+		/* @media screen and (max-width: 1680px) {
 
 			html {
 				font-size: 12pt;
@@ -141,7 +141,7 @@ input, select, textarea {
 				font-size: 10pt;
 			}
 
-		}
+		} */
 
 	body, input, select, textarea {
 		color: #ffffff;
